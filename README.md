@@ -5,7 +5,7 @@ The **Malaysia School Logo Collection Project** aims to create a centralized, st
 
 This project provides high-quality logo resources for educators, designers, researchers, alumni, and anyone interested for non-commercial use.
 
-[中文 README 文档](README.md) | [Chinese README](README.md)
+[中文 README 文档](README-zhCN.md) | [Chinese README](README-zhCN.md)
 
 ---
 
@@ -141,4 +141,4 @@ A big thank you to everyone who contributes logos, maintains content, and suppor
 
 **Let's build a visual cultural archive for Malaysia's educational institutions together!** 🇲🇾
 
-[中文 README 文档](README.md) | [Chinese README](README.md)
+[中文 README 文档](README-zhCN.md) | [Chinese README](README-zhCN.md)
